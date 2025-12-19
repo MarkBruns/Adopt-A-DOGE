@@ -9,6 +9,7 @@ A curated list of *"just read the code bro"* resources.
 
 [0xSimao](https://x.com/0xSimao)
 - [My security methodology consists of 3 phases](https://x.com/0xSimao/status/1985673196880667100) (X thread)
+- [human fuzzer 101](https://x.com/0xsimao/status/2002026628558557217) (X thread)
 
 [3DOC](https://x.com/3docsec)
 - [Testing for audits: there is no spoon](https://3doc.fr/blog/23-10-26-testing-for-audits.html) (blog article)
