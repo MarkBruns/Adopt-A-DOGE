@@ -6,9 +6,9 @@ Nick Shirley showed the way; then Cam Higby and others kept showing us ... NOW t
 
 Iowa is *in the process of going live*. Make your state is next.
 
-Fork → Customize → Launch your state’s citizen auditor army in <60 minutes.
+Fork → understand the structure → refactor, simplify the structure → customize as you need → Launch your state’s citizen auditor army in <60 minutes.
 
-Every American now gets a personal DOGE command center.
+Every SELF-STARTING American now gets a personal DOGE command center.
 
 [Launch Your State →](https://github.com/yourusername/Adopt-A-DOGE/generate)  
 [Live Iowa Demo](https://youtu.be/your-video) | [Discord](https://discord.gg/adoptadoge) | [X @AdoptADOGE](https://x.com/AdoptADOGE)
