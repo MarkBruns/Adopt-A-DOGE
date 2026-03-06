@@ -17,9 +17,9 @@ Every SELF-STARTING American now gets a personal DOGE command center.
 
 
 ---
-**This is still just a PLAN for a Repository, not an actual Repository yet.**
+**This is still just a PLACEHOLDER masquerading as a PLAN for a Repository ... not an actual Repository yet.**
 
-It is NOT fully fleshed-out yet, NOT ready-to-launch yet ... the aim is to create a GitHub repository first, as cloneable resource for a national Adopt-A-DOGE playbook ... the point is about increasing citizenship and improving civic tech for the purposes of using government resource, combining that material with other investigations and generally building a community of citizen activism around the goal of better monitoring of government.
+It is NOT remotely close to being fully fleshed-out yet, NOT ready-to-launch yet ... the aim is to create a GitHub repository first, as cloneable resource for a national Adopt-A-DOGE playbook ... the point is about increasing citizenship and improving civic tech for the purposes of using government resource, combining that material with other investigations and generally building a community of citizen activism around the goal of better monitoring of government.
 
 It uses Iowa as an EXAMPLE or template ... ultimately becoming UNOFFICIAL *official* national blueprint every state can fork, customize in under 60 minutes.
 
