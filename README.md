@@ -1,7 +1,7 @@
 # Adopt-A-DOGE 🐕‍🦺
 **Make AUDITING Great Again — National Edition**
 
-Iowa is live. Your state is next.
+Iowa is *in the process of going live*. Make your state is next.
 
 Fork → Customize → Launch your state’s citizen auditor army in <60 minutes.
 
