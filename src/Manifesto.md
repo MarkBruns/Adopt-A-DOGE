@@ -1,13 +1,23 @@
-***The best way to catch up is [the daily DOGE journal](Journal.md).*** 
+# READ THE ROOM!
 
+The MAGA that wins elections ... because focusing solely on combating FRAUD, waste, abuse and ridiculously high expenditures is the only way to win elections 2026.
+
+READ THE ROOM!  
+
+FRAUD is the ONLY issue that is going to matter in 2026 ... and the only way to combat FRAUD is through exposing it and pointing out who has perpetuated it.  The only way to expose it is through meticulous, systematic AUDITING ... and it will require massive amounts of work, so mastering agentic tools in order maximize your productivity as an auditor is essential to the game. Agentic tools, social media, podcasts, comments will be necessary to mobilize the masses of fence-sitting voters who ordinarily don't even vote in midterm elections ... this why your becoming a DOGE geurilla will be the key to winning in 2026 ... the money you contribute to candidates will be squandered by them ... the ONLY candidate that should win are those how help with coordinating the 2026 DOGE. Tell the clueless pols to **READ THE ROOM!**  
+
+---
+Going forward ... ***the best way to catch up is [the daily DOGE journal](Journal.md).*** 
+
+## DO NOT SETTLE for this repository. It is only super early work-in-progress right now. MAKE IT BETTER.
 
 Fork it. Customize it. Launch your state. Win. 🐕‍🦺🚀
 
 Who’s adopting the next state? Let’s Make AUDITING Great Again — everywhere.
 
-**This is a PLAN for a Repository, not an actual Repository yet.**
+**This is still just a PLAN for a Repository, not an actual Repository yet.**
 
-It is a fully fleshed-out, ready-to-launch GitHub-first national Adopt-A-DOGE playbook for increasing citizenship and improving civic tech
+It is NOT fully fleshed-out yet, NOT ready-to-launch yet ... the aim is to create a GitHub repository first, as cloneable resource for a national Adopt-A-DOGE playbook ... the point is about increasing citizenship and improving civic tech for the purposes of using government resource, combining that material with other investigations and generally building a community of citizen activism around the goal of better monitoring of government.
 
 It uses Iowa as an EXAMPLE or template ... ultimately becoming UNOFFICIAL *official* national blueprint every state can fork, customize in under 60 minutes.
 
