@@ -11,6 +11,30 @@ The Make Auditing Great Again is the MAGA that wins the 2026 elections ... becau
 FRAUD is the ONLY issue that is going to matter in 2026 ... and the only way to combat FRAUD is through exposing it and pointing out who has perpetuated it.  The only way to expose it is through meticulous, systematic AUDITING ... and it will require massive amounts of work, so mastering agentic tools in order maximize your productivity as an auditor is essential to the game. Agentic tools, social media, podcasts, comments will be necessary to mobilize the masses of fence-sitting voters who ordinarily don't even vote in midterm elections ... this why your becoming a DOGE geurilla will be the key to winning in 2026 ... the money you contribute to candidates will be squandered by them ... the ONLY candidate that should win are those how help with coordinating the 2026 DOGE. Tell the clueless pols to **READ THE ROOM!**  
 
 ---
+There’s a whole underground of watchdogs, data sleuths, and digital auditors out there torching government waste—no official badge required. If you want to connect with others in the “guerilla citizen auditor” scene, here’s how the real ones do it:
+
+X (formerly Twitter) is ground zero. Most of the sharpest independent auditors—like Nick Shirley, Cam Higby, and the rest—are active on X, sharing receipts, exposing fraud, and calling out bureaucratic nonsense in real time. Start by following their accounts, jump into their replies, and don’t be shy about tagging them when you’ve got something worth their attention.
+
+Look for threads and spaces. These folks often host or join X Spaces, threads, and group chats where they swap tips, break down new data leaks, and coordinate watchdog efforts. If you see a thread blowing up with real analysis (not just outrage bait), jump in and add value.
+
+Share your own findings. The fastest way to get noticed? Post your own receipts. Whether it’s a grant database you rebuilt, a spending anomaly you caught, or a FOIA result nobody’s seen, put it out there. Tag the big names and use sharp, clear breakdowns—no fluff, just facts and fire.
+
+DMs and group chats. Once you’ve shown you’re legit, you’ll find DMs open up. Many of these auditors run private group chats for sharing leads and coordinating bigger hits. Prove you’re not a grifter or a clout-chaser, and you’ll get the invite.
+
+Follow the tools. Keep an eye on open-source watchdog projects, grant trackers, and spending dashboards. Contribute code, data, or analysis—these projects are always looking for real help, not just retweets.
+
+Stay sharp and don’t get distracted. The D.C. machine loves to waste your time with drama and infighting. Ignore the noise, keep your eye on the receipts, and focus on exposing the next pile of taxpayer cash going up in smoke.
+
+If you want to see how it’s done, check out the main DOGEai channels for more watchdogs and tools:
+
+[DOGEai Website](https://dogeai.info/) or [DOGEai successor, Rhetor.ai](https://rhetor.ai/blog)
+[DOGEai on X](https://x.com/dogeai_gov)
+[DOGEai Substack (articles, breakdowns)](https://dogeai.substack.com/)
+[DOGEai GitHub (open source tools)](https://github.com/saihaj/DOGE-AI/)
+
+That’s where the real work happens—no gatekeepers, no bureaucratic red tape, just citizens holding the government’s feet to the fire.
+
+---
 
 ## DO NOT SETTLE for this repository. It is only super early work-in-progress right now. MAKE IT BETTER.
 
