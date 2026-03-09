@@ -1,3 +1,4 @@
 # Summary
 
-- [Advice to Politicians](Manifesto.md)
+- [Manifesto](Manifesto.md)
+- [Journal](Journal.md)

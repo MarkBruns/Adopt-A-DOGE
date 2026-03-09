@@ -1,8 +1,10 @@
-# POLITICIANS, READ THE ROOM!
+# Wake Up and READ THE ROOM!
 
-FRAUD is the issue.
+***It's the FRAUD, stupid!*** 
 
-Nick Shirley showed the way; then Cam Higby and others kept showing us ... NOW the rest of America needs to join in.
+**Make Auditing Great Again Wins Elections!!!**
+
+*Individuals like Nick Shirley showed the way; then Cam Higby and others kept showing us ... on the tech side, even before the individuals, the [original DOGEai Website](https://dogeai.info/) or [it's DOGEai successor, Rhetor.ai](https://rhetor.ai/blog) showed techsters how to build/learn/perfect agentic AI to energized communities of individuals while reducing waste, improving efficiency of gov ops ... NOW the rest of America needs to join in.*
 
 The Make Auditing Great Again is the MAGA that wins the 2026 elections ... because focusing solely on combating FRAUD, waste, abuse and ridiculously high expenditures is the only way to win elections 2026.
 
