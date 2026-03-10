@@ -1,6 +1,6 @@
-# Wake Up and READ THE ROOM!
+**Wake Up and READ THE ROOM ... or read the [Daily Doge Journal](Journal.md)!**
 
-***It's the FRAUD, stupid!*** 
+# ***It's the FRAUD, stupid!*** 
 
 **Make Auditing Great Again Wins Elections!!!**
 
