@@ -1,5 +1,6 @@
 ## Daily DOGE Journal
 
+* [Developing AR/VR Capabilities for the "well-regulated militia"](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-12.md)
 * [Power Engineering Reliability and Agentic Root-Cause Failure Analysis](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-11.md)
 * [On the Evolution of Research Agent Patterns](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-10.md)
 * [Use D.O.W.N.T.I.M.E. Mnemonic for Government Efficiency Improvement](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-09.md)
