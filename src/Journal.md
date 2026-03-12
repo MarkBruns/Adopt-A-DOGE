@@ -1,5 +1,6 @@
 ## Daily DOGE Journal
 
+* [Agentic Pattern Alphabet – Building Blocks for the Language of Intelligent Systems](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-13.md)
 * [Handyman Helper: Developing AR/VR Capabilities for the "Well-Regulated Militia](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-12.md)
 * [Power Engineering Reliability and Agentic Root-Cause Failure Analysis](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-11.md)
 * [On the Evolution of Research Agent Patterns](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-10.md)
