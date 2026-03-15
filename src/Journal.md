@@ -1,5 +1,6 @@
 ## Daily DOGE Journal
 
+* [Multi-agentic Coach and Opportunity Optimizer](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-15.md)
 * [*Who's Ready For Some Pi?* Agentic AI That Uses Your Chrome 146 Browser](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-14.md)
 * [Beginning OpenClaw DOGE MVP Starter Setup Guide](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-13.md)
 * [Handyman Helper: Developing AR/VR Capabilities for the "Well-Regulated Militia](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-12.md)
