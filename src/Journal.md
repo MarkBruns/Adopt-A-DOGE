@@ -1,5 +1,6 @@
 ## Daily DOGE Journal
 
+* [25 things to do to radically lower your expenses](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-18.md)
 * [What's the Story With LOWER Cancer Rates of Farmers In Iowa](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-17.md)
 * [No Choice But Victory – The Cosmic Imperative to Extinguish the IRGC](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-16.md)
 * [Multi-agentic Coach and Opportunity Optimizer](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-15.md)
