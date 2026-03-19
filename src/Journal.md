@@ -1,5 +1,7 @@
 ## Daily DOGE Journal
 
+* [Ditch the Pathological Solar Energy Distraction ASAP](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-21.md)
+* [Building Community Emergency Response Preparedness Committees (CERPC)](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-20.md)
 * [Human-Wave Coercion Pyramids vs. Attritable Smart Decapitation](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-19.md)
 * [25 things to do to radically lower your expenses](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-18.md)
 * [What's the Story With LOWER Cancer Rates of Farmers In Iowa](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-17.md)
@@ -7,7 +9,7 @@
 * [Multi-agentic Coach and Opportunity Optimizer](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-15.md)
 * [*Who's Ready For Some Pi?* Agentic AI That Uses Your Chrome 146 Browser](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-14.md)
 * [Beginning OpenClaw DOGE MVP Starter Setup Guide](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-13.md)
-* [Community Emergency Response Preparedness and Handyman Helper AR/VR Capabilities](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-12.md)
+* [Introducing Community Emergency Response Preparedness Committees (CERPC)](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-12.md)
 * [Power Engineering Reliability and Agentic Root-Cause Failure Analysis](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-11.md)
 * [On the Evolution of Research Agent Patterns](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-10.md)
 * [Use D.O.W.N.T.I.M.E. Mnemonic for Government Efficiency Improvement](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-09.md)
