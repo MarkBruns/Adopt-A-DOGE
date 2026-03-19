@@ -1,5 +1,6 @@
 ## Daily DOGE Journal
 
+* [DOGEfooding the Weapons of DOGE InfoWarfighting](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-22.md)
 * [Ditch the Pathological Solar Energy Distraction ASAP](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-21.md)
 * [Building Community Emergency Response Preparedness Committees (CERPC)](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-20.md)
 * [Human-Wave Coercion Pyramids vs. Attritable Smart Decapitation](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-19.md)
