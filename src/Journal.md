@@ -1,5 +1,6 @@
 ## Daily DOGE Journal
 
+* [Dual-Path Multi-Agent Strategy: More Agentification For $1000](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-04-04.md)
 * [Multi-Agent Strategy: How Much Agentification Does $1000 Buy?](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-04-03.md)
 * [Islamic Revolutionary Guard Corps ... NOT Iran](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-23.md)
 * [DOGEfooding the Weapons of DOGE Freedom Fighting](https://github.com/MarkBruns/Adopt-A-DOGE/blob/main/journal/2026-03-22.md)
